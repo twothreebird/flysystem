@@ -8,3 +8,4 @@
 /.php-cs-fixer.cache
 /google-cloud-service-account.json
 .idea
+.history/
