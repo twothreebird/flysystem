@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 twothreebird/flysystem is built on the following main stack:
+
 - [Context.IO](http://context.io) – Email API
 - [PHP](http://www.php.net/) – Languages
 - [Terraform](https://www.terraform.io/) – Server Configuration and Automation
@@ -13,11 +14,13 @@ twothreebird/flysystem is built on the following main stack:
 - [Toxiproxy](https://github.com/shopify/toxiproxy) – Load and Performance Testing
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 twothreebird/flysystem is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/240/mPMj_ee5.png' alt='Context.IO'/> [Context.IO](http://context.io) – Email API
 - <img width='25' height='25' src='https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg' alt='PHP'/> [PHP](http://www.php.net/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1276/default_2316907c4199f912e2ed79cbdb99025c9e5e2665.png' alt='Terraform'/> [Terraform](https://www.terraform.io/) – Server Configuration and Automation
@@ -29,14 +32,15 @@ twothreebird/flysystem is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/104936/default_8dd1b1c55679186895be6eb955b2cb47c991f21b.png' alt='Toxiproxy'/> [Toxiproxy](https://github.com/shopify/toxiproxy) – Load and Performance Testing
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [twothreebird/flysystem](https://github.com/twothreebird/flysystem)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|12<br/>Tools used|11/09/23 <br/>Report generated|
+|12<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -159,4 +163,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
